@@ -19,3 +19,11 @@ atsv4
 ├── .env
 
 └── requirements.txt
+
+
+git init 
+git add .
+git commit -m "Initial commit"
+git branch
+git remote add origin https://github.com/danishammar/Resume_Scanner_Fastapi.git
+git branch -M master
