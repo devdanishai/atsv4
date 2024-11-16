@@ -1,0 +1,3 @@
+git remote -v
+git remote set-url origin https://github.com/devdanishai/atsv4.git
+git remote -v
