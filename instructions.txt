@@ -1,0 +1,10 @@
+pip install -r requirements.txt
+uvicorn main:app --reload
+palce this in browser: http://localhost:8000
+
+folder structure
+│
+├── main.py
+├── index.html
+├── .env
+└── requirements.txt
